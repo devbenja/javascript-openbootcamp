@@ -1,0 +1,22 @@
+{
+  "name": "javascript-course",
+  "version": "1.0.0",
+  "description": "cursodejavascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbenja/javascript-openbootcamp.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "benja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devbenja/javascript-openbootcamp/issues"
+  },
+  "homepage": "https://github.com/devbenja/javascript-openbootcamp#readme"
+}
